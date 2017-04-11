@@ -10,8 +10,8 @@ logging: # <----New sections below
   level:
     io:
       pivotal: DEBUG
-
+      
 greeting:
-  displayFortune: false
+  displayFortune: true # <----Change to true
 
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
