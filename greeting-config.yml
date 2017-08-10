@@ -12,6 +12,6 @@ logging: # <----New sections below
       pivotal: DEBUG
       
 greeting:
-  displayFortune: false # <----Change to true
+  displayFortune: true # <----Change to true
 
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
